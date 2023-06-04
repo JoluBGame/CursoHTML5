@@ -1,0 +1,11 @@
+h1{
+    background: blueviolet;
+    /* margin-left: 100px;
+    margin-bottom: 200px; */
+    /* margin: 100px; */
+    margin: 100px 10px 20px 500px;
+}
+p{
+    background: #a40547;
+    padding: 100px;
+}
